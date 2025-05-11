@@ -19,7 +19,7 @@ FastAPI automatically generates OpenAPI and JSON Schema documentation for your A
 **Medium Blog – Beginner’s Guide**
 
 This repository accompanies the blog:  
-👉 _Building Your First API with FastAPI – A Beginner’s Guide_
+👉 [**Building Your First API with FastAPI – A Beginner’s Guide**](https://medium.com/@simrajabeen16/building-your-first-api-with-fastapi-a-beginners-guide-ae28e5ceb765)
 
 **In the blog, you will learn how to:**
 
