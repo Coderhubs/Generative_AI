@@ -163,14 +163,6 @@ With Tool Calling:
 
 ---
 
-## 🔧 My Next Steps
-
-* Try building a simple **calculator agent**
-* Connect a weather API to a chatbot
-* Learn **Memory + Planning** features
-* Create my own ReAct-style agent using LangChain
-
----
 
 ## 🙌 Connect with Me
 
